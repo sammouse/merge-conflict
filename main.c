@@ -5,7 +5,6 @@ Initial Function()
   //Sample Code
 }
 
-<<<<<<< HEAD
 Initial Function2()
 {
  //Sample Code
@@ -20,6 +19,17 @@ feature1()
 >>>>>>> feature1
 }
 
+=======
+feaature2()
+{
+  //Sample Code for Feature 2
+  test feature2()
+   {
+     print "feature2 changes"
+   }
+    
+}
+>>>>>>> feature2
 
 
 }
